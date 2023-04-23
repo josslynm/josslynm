@@ -12,8 +12,8 @@
 ```javascript
 const joss = {
   pronouns: "she" | "her",
-  code: [Javascript, C, HTML, CSS, C++, Python, Java],
-  tools: [React, Node, Bootstrap Studio, Azure],
+  code: [Javascript, C, HTML, CSS, C++],
+  tools: [Bootstrap Studio],
   techCommunities: {
                         cofounder: "Nopalito Tech",
                         university: "ESIME Zacatenco"
