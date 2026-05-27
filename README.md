@@ -18,7 +18,6 @@ const joss = {
                         cofounder: "Nopalito Tech",
                         university: "ESIME Zacatenco"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Frontend"
 }
 ```
 
